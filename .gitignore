@@ -3,3 +3,10 @@ eval
 inspection
 quicklists
 tasks
+options/appComponentVersions.xml
+options/applicationLibraries.xml
+options/browsers.xml
+options/gemmanager.xml
+options/jdk.table.xml
+options/other.xml
+options/security.xml
