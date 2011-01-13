@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_IGNORE_GLOBAL="null" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [voicmail]" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="voicmail" RVM_IGNORE_GLOBAL="voicmail" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [confessional]" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.8.7 p253" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="confessional" RVM_IGNORE_GLOBAL="confessional" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [global]" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="global" RVM_IGNORE_GLOBAL="global" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [status-server]" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="status-server" RVM_IGNORE_GLOBAL="status-server" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [tropo_spike]" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="tropo_spike" RVM_IGNORE_GLOBAL="tropo_spike" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [voicemail]" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="voicemail" RVM_IGNORE_GLOBAL="voicemail" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p253 [voicmail]" />
+      <type value="RUBY_SDK" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/lib/ruby/1.8/i686-darwin10.5.0" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional LANGUAGE_LEVEL="ruby18" RVM_GEMSET_NAME="voicmail" RVM_IGNORE_GLOBAL="voicmail" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ree-1.8.7-2010.02/bin" />
+    </jdk>
+  </component>
+</application>
+

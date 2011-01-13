@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="[gem] thor (v0.14.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02/gems/thor-0.14.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/thor-0.14.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/thor-0.14.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rake (v0.8.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02/gems/rake-0.8.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/rake-0.8.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/rake-0.8.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/rake-0.8.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/rake-0.8.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] ssh-config (v0.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02/gems/ssh-config-0.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/ssh-config-0.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/ssh-config-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/ssh-config-0.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/ssh-config-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] homesick (v0.6.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02/gems/homesick-0.6.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/homesick-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/homesick-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/homesick-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02/gems/homesick-0.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rake (v0.8.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@global/gems/rake-0.8.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@global/gems/rake-0.8.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@global/gems/rake-0.8.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@global/gems/rake-0.8.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@global/gems/rake-0.8.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-core (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-core-2.4.0/script" />
+      </SOURCES>
+    </library>
+    <library name="[gem] hashie (v0.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/hashie-0.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/hashie-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/hashie-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] heroku (v1.16.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/heroku-1.16.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/heroku-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/heroku-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/heroku-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/heroku-1.16.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activemodel (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activemodel-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activemodel-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activemodel-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionmailer (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/actionmailer-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/actionmailer-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/actionmailer-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] diff-lcs (v1.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/diff-lcs-1.1.2/tests" />
+      </SOURCES>
+    </library>
+    <library name="[gem] webmock (v1.6.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/webmock-1.6.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/webmock-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/webmock-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mime-types (v1.16, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/mime-types-1.16)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/mime-types-1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/mime-types-1.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activesupport (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activesupport-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activesupport-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activesupport-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tropo-webapi-ruby (v0.1.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/tropo-webapi-ruby-0.1.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/tropo-webapi-ruby-0.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/tropo-webapi-ruby-0.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tzinfo (v0.3.23, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/tzinfo-0.3.23)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/tzinfo-0.3.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/tzinfo-0.3.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-rails (v2.4.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-rails-2.4.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="[gem] bundler (v1.0.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/bundler-1.0.7/man" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-test (v0.5.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-test-0.5.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-test-0.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-test-0.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] polyglot (v0.3.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/polyglot-0.3.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/polyglot-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/polyglot-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] builder (v2.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/builder-2.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/builder-2.1.2/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/builder-2.1.2/scripts" />
+      </SOURCES>
+    </library>
+    <library name="[gem] vcr (v1.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/vcr-1.4.0/script" />
+      </SOURCES>
+    </library>
+    <library name="[gem] configuration (v1.2.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/configuration-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="[gem] treetop (v1.4.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/treetop-1.4.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/treetop-1.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/treetop-1.4.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] thor (v0.14.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/thor-0.14.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/thor-0.14.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/thor-0.14.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-mocks (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-mocks-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rails (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rails-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rails-3.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rails-3.0.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="[gem] aws-s3 (v0.6.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/aws-s3-0.6.2/support" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activeresource (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activeresource-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activeresource-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activeresource-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] jquery-rails (v0.2.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/jquery-rails-0.2.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/jquery-rails-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/jquery-rails-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] launchy (v0.3.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/launchy-0.3.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack (v1.2.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] i18n (v0.5.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/i18n-0.5.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/i18n-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/i18n-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rest-client (v1.6.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rest-client-1.6.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rest-client-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rest-client-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rest-client-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rest-client-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] sqlite3-ruby (v1.3.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/sqlite3-ruby-1.3.2/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activerecord (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activerecord-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activerecord-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/activerecord-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] crack (v0.1.8, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/crack-0.1.8)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/crack-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/crack-0.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-mount (v0.6.13, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-mount-0.6.13)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-mount-0.6.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rack-mount-0.6.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] addressable (v2.2.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/addressable-2.2.2/website" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionpack (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/actionpack-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/actionpack-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/actionpack-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] abstract (v1.0.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/abstract-1.0.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/abstract-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/abstract-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] xml-simple (v1.0.12, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/xml-simple-1.0.12)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/xml-simple-1.0.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/xml-simple-1.0.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] railties (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/railties-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/railties-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/railties-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mail (v2.2.14, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/mail-2.2.14)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/mail-2.2.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/mail-2.2.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json (v1.4.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json-1.4.6/tools" />
+      </SOURCES>
+    </library>
+    <library name="[gem] erubis (v2.6.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/erubis-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json_pure (v1.4.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/json_pure-1.4.6/tools" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-expectations (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-expectations-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-expectations-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-expectations-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-expectations-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/rspec-expectations-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] arel (v2.0.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/arel-2.0.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/arel-2.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicmail/gems/arel-2.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] configuration (v1.2.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/configuration-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="[gem] launchy (v0.3.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/launchy-0.3.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionmailer (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/actionmailer-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/actionmailer-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/actionmailer-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rest-client (v1.6.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rest-client-1.6.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rest-client-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rest-client-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rest-client-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rest-client-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionpack (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/actionpack-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/actionpack-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/actionpack-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] bundler (v1.0.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/bundler-1.0.7/man" />
+      </SOURCES>
+    </library>
+    <library name="[gem] abstract (v1.0.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/abstract-1.0.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/abstract-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/abstract-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json (v1.4.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json-1.4.6/tools" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack (v1.2.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activemodel (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activemodel-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activemodel-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activemodel-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] hashie (v0.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/hashie-0.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/hashie-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/hashie-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tropo-webapi-ruby (v0.1.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/tropo-webapi-ruby-0.1.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/tropo-webapi-ruby-0.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/tropo-webapi-ruby-0.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] arel (v2.0.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/arel-2.0.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/arel-2.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/arel-2.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] diff-lcs (v1.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/diff-lcs-1.1.2/tests" />
+      </SOURCES>
+    </library>
+    <library name="[gem] polyglot (v0.3.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/polyglot-0.3.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/polyglot-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/polyglot-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mail (v2.2.14, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/mail-2.2.14)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/mail-2.2.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/mail-2.2.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] jquery-rails (v0.2.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/jquery-rails-0.2.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/jquery-rails-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/jquery-rails-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] treetop (v1.4.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/treetop-1.4.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/treetop-1.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/treetop-1.4.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activerecord (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activerecord-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activerecord-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activerecord-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-test (v0.5.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-test-0.5.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-test-0.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-test-0.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-mocks (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-mocks-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-expectations (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-expectations-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-expectations-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-expectations-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-expectations-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-expectations-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-rails (v2.4.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-rails-2.4.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="[gem] erubis (v2.6.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/erubis-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json_pure (v1.4.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/json_pure-1.4.6/tools" />
+      </SOURCES>
+    </library>
+    <library name="[gem] thor (v0.14.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/thor-0.14.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/thor-0.14.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/thor-0.14.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] railties (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/railties-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/railties-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/railties-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mime-types (v1.16, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/mime-types-1.16)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/mime-types-1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/mime-types-1.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tzinfo (v0.3.23, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/tzinfo-0.3.23)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/tzinfo-0.3.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/tzinfo-0.3.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activesupport (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activesupport-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activesupport-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activesupport-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] sqlite3-ruby (v1.3.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/sqlite3-ruby-1.3.2/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activeresource (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activeresource-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activeresource-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/activeresource-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] heroku (v1.16.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/heroku-1.16.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/heroku-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/heroku-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/heroku-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/heroku-1.16.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] i18n (v0.5.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/i18n-0.5.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/i18n-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/i18n-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] builder (v2.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/builder-2.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/builder-2.1.2/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/builder-2.1.2/scripts" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rails (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rails-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rails-3.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rails-3.0.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-mount (v0.6.13, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-mount-0.6.13)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-mount-0.6.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rack-mount-0.6.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-core (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@confessional/gems/rspec-core-2.4.0/script" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mime-types (v1.16, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/mime-types-1.16)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/mime-types-1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/mime-types-1.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-test (v0.5.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-test-0.5.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-test-0.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-test-0.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] abstract (v1.0.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/abstract-1.0.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/abstract-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/abstract-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] arel (v2.0.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/arel-2.0.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/arel-2.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/arel-2.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] polyglot (v0.3.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/polyglot-0.3.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/polyglot-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/polyglot-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] railties (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/railties-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/railties-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/railties-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] erubis (v2.6.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/erubis-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] thor (v0.14.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/thor-0.14.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/thor-0.14.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/thor-0.14.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activesupport (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activesupport-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activesupport-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activesupport-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] i18n (v0.5.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/i18n-0.5.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/i18n-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/i18n-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activemodel (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activemodel-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activemodel-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activemodel-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] builder (v2.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/builder-2.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/builder-2.1.2/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/builder-2.1.2/scripts" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionmailer (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/actionmailer-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/actionmailer-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/actionmailer-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activeresource (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activeresource-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activeresource-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activeresource-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] bundler (v1.0.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/bundler-1.0.7/man" />
+      </SOURCES>
+    </library>
+    <library name="[gem] treetop (v1.4.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/treetop-1.4.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/treetop-1.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/treetop-1.4.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rails (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rails-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rails-3.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rails-3.0.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-mount (v0.6.13, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-mount-0.6.13)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-mount-0.6.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-mount-0.6.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mail (v2.2.14, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/mail-2.2.14)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/mail-2.2.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/mail-2.2.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activerecord (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activerecord-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activerecord-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/activerecord-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tzinfo (v0.3.23, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/tzinfo-0.3.23)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/tzinfo-0.3.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/tzinfo-0.3.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack (v1.2.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rack-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionpack (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/actionpack-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/actionpack-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/actionpack-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rake (v0.8.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rake-0.8.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rake-0.8.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rake-0.8.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rake-0.8.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@tropo_spike/gems/rake-0.8.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] heroku (v1.16.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/heroku-1.16.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/heroku-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/heroku-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/heroku-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/heroku-1.16.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionpack (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/actionpack-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/actionpack-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/actionpack-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] i18n (v0.5.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/i18n-0.5.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/i18n-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/i18n-0.5.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/i18n-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activesupport (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activesupport-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activesupport-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activesupport-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] actionmailer (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/actionmailer-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/actionmailer-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/actionmailer-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activerecord (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activerecord-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activerecord-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activerecord-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] treetop (v1.4.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/treetop-1.4.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/treetop-1.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/treetop-1.4.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/treetop-1.4.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] sqlite3-ruby (v1.3.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/sqlite3-ruby-1.3.2/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] configuration (v1.2.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/configuration-1.2.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-mocks (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0/autotest" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-mocks-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] erubis (v2.6.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/doc-api" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/erubis-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] hashie (v0.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/hashie-0.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/hashie-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/hashie-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mail (v2.2.14, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/mail-2.2.14)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/mail-2.2.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/mail-2.2.14/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] vcr (v1.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/vcr-1.4.0/script" />
+      </SOURCES>
+    </library>
+    <library name="[gem] launchy (v0.3.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/launchy-0.3.7/tasks" />
+      </SOURCES>
+    </library>
+    <library name="[gem] jquery-rails (v0.2.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/jquery-rails-0.2.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/jquery-rails-0.2.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/jquery-rails-0.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] thor (v0.14.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/thor-0.14.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/thor-0.14.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/thor-0.14.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/thor-0.14.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-core (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-core-2.4.0/script" />
+      </SOURCES>
+    </library>
+    <library name="[gem] polyglot (v0.3.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/polyglot-0.3.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/polyglot-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/polyglot-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-expectations (v2.4.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-expectations-2.4.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-expectations-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-expectations-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-expectations-2.4.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-expectations-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] crack (v0.1.8, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/crack-0.1.8)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/crack-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/crack-0.1.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] arel (v2.0.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/arel-2.0.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/arel-2.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/arel-2.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json (v1.4.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json-1.4.6/tools" />
+      </SOURCES>
+    </library>
+    <library name="[gem] json_pure (v1.4.6, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/json_pure-1.4.6/tools" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activemodel (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activemodel-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activemodel-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activemodel-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] diff-lcs (v1.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/diff-lcs-1.1.2/tests" />
+      </SOURCES>
+    </library>
+    <library name="[gem] builder (v2.1.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/builder-2.1.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/builder-2.1.2/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/builder-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/builder-2.1.2/scripts" />
+      </SOURCES>
+    </library>
+    <library name="[gem] aws-s3 (v0.6.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/aws-s3-0.6.2/support" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tzinfo (v0.3.23, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/tzinfo-0.3.23)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/tzinfo-0.3.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/tzinfo-0.3.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] activeresource (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activeresource-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activeresource-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/activeresource-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-mount (v0.6.13, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-mount-0.6.13)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-mount-0.6.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-mount-0.6.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] tropo-webapi-ruby (v0.1.9, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/tropo-webapi-ruby-0.1.9)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/tropo-webapi-ruby-0.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/tropo-webapi-ruby-0.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] webmock (v1.6.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/webmock-1.6.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/webmock-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/webmock-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] railties (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/railties-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/railties-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/railties-3.0.3/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/railties-3.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rails (v3.0.3, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rails-3.0.3)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rails-3.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rails-3.0.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="[gem] bundler (v1.0.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/bundler-1.0.7/man" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rspec-rails (v2.4.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rspec-rails-2.4.1/templates" />
+      </SOURCES>
+    </library>
+    <library name="[gem] addressable (v2.2.2, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/addressable-2.2.2/website" />
+      </SOURCES>
+    </library>
+    <library name="[gem] mime-types (v1.16, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/mime-types-1.16)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/mime-types-1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/mime-types-1.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] xml-simple (v1.0.12, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/xml-simple-1.0.12)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/xml-simple-1.0.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/xml-simple-1.0.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rest-client (v1.6.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rest-client-1.6.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rest-client-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rest-client-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rest-client-1.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rest-client-1.6.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack (v1.2.1, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/example" />
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] rack-test (v0.5.7, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-test-0.5.7)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-test-0.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/rack-test-0.5.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="[gem] abstract (v1.0.0, /Users/hiremaga/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/abstract-1.0.0)">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/abstract-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ree-1.8.7-2010.02@voicemail/gems/abstract-1.0.0/lib" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
+

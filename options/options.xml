@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="OptionsEditor.4.22.1362.746" x="77" y="22" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="installation.uid" value="62741b48-c586-4a4a-8cce-8867afca9adb" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="rake.run.task.popup.search.mask" value="spec" />
+    <property name="Ruby.encodingUpdated" value="true" />
+  </component>
+</application>
+

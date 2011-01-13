@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="RVM Support" displayType="BALLOON" />
+  </component>
+</application>
+

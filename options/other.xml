@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="HttpConfigurable">
+    <option name="plainProxyPassword" value="" />
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="0" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="0" />
+    <option name="CART_SORT_COLUMN_ORDER" value="0" />
+    <available>
+      <option name="myProportion" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/confessional" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/confessional" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="BACKGROUND" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="1294877792886" />
+  </component>
+  <component name="XDebuggerSettings">
+    <debuggers>
+      <debugger id="javascript">
+        <configuration />
+      </debugger>
+      <debugger id="ruby">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <deleted_templates>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_templates>
+    <deleted_includes>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_includes>
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+    <templates>
+      <internal_template name="Html" reformat="true" />
+      <internal_template name="Html5" reformat="true" />
+      <internal_template name="Xhtml" reformat="true" />
+      <internal_template name="ActionScript Class" reformat="true" />
+      <internal_template name="ActionScript Interface" reformat="true" />
+      <template name="Erb File.html" reformat="true" />
+      <template name="JavaScript File" reformat="true" />
+      <template name="RSpec Test Template" reformat="true" />
+      <template name="Ruby Class Template" reformat="true" />
+      <template name="Test-Spec Template" reformat="true" />
+      <template name="TestUnit Test Template" reformat="true" />
+    </templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+    <enableFiles value="false" />
+    <enableFolders value="false" />
+    <filesTool value="" newValue="" />
+    <foldersTool value="" newValue="" />
+  </component>
+  <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+</application>
+

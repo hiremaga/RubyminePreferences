@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+  <component name="CodeInsightSettings" version="1294880750096" />
+  <component name="DaemonCodeAnalyzerSettings" version="1294880700204" />
+  <component name="DimensionService" version="1294880700205" />
+  <component name="EditorColorsManagerImpl" version="1294880750096" />
+  <component name="EditorSettings" version="1294880700206" />
+  <component name="Encoding" version="1294880700206" />
+  <component name="FeatureUsageStatistics" version="1294880799044" />
+  <component name="FileBasedIndex" version="1294880700207" />
+  <component name="FileTypeManager" version="1294880700216" />
+  <component name="GemManagerSettings" version="1294880700230" />
+  <component name="GeneralSettings" version="1294880700233" />
+  <component name="Git.Application.Settings" version="1294880700233" />
+  <component name="HttpConfigurable" version="1294880700234" />
+  <component name="KeymapManager" version="1294880750115" />
+  <component name="LafManager" version="1294880700234" />
+  <component name="NotificationConfiguration" version="1294880700234" />
+  <component name="PasswordDatabase" version="1294880750117" />
+  <component name="PluginManagerConfigurable" version="1294880750118" />
+  <component name="ProjectJdkTable" version="1294880700236" />
+  <component name="ProjectManager" version="1294880700236" />
+  <component name="PropertiesComponent" version="1294880799090" />
+  <component name="RecentDirectoryProjectsManager" version="1294880700237" />
+  <component name="RemoteGemsState" version="1294880700237" />
+  <component name="TodoConfiguration" version="1294880700238" />
+  <component name="UISettings" version="1294880700238" />
+  <component name="UpdatesConfigurable" version="1294880700239" />
+  <component name="WindowManager" version="1294880700240" />
+  <component name="XDebuggerSettings" version="1294880750123" />
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl" version="1294880700273" />
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl" version="1294880700273" />
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1294880700273" />
+  <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl" version="1294880700274" />
+  <component name="libraryTable" version="1294880700327" />
+</versions>
+
