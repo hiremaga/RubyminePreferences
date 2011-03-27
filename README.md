@@ -4,8 +4,8 @@ I've added most of the preferences I don't care much about to .gitignore.
 
 I setup these preferences on a new machines by doing something like to this:
 
-	mkdir -p ~/Library/Preferences/RubyMine30
-	cd ~/Library/Preferences/RubyMine30
+	mkdir -p ~/Library/Preferences/RubyMine31
+	cd ~/Library/Preferences/RubyMine31
 	git init
 	git remote add origin git@github.com:hiremaga/RubyminePreferences.git
 	git fetch
